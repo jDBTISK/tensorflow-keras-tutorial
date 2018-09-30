@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+
+MNIST_data
+logs
+models
+dataset/img
